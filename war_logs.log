@@ -1,0 +1,117 @@
+INFO:root:50 have been decided to be played
+INFO:root:The current turn count is 1
+INFO:root:Player1 wins: 7 of spades > Queen of hearts
+INFO:root:The current turn count is 2
+INFO:root:Player1 wins: 9 of spades > 5 of diamonds
+INFO:root:The current turn count is 3
+INFO:root:Player2 wins: Queen of diamonds > 5 of clubs
+INFO:root:The current turn count is 4
+INFO:root:Player2 wins: 8 of diamonds > 2 of spades
+INFO:root:The current turn count is 5
+INFO:root:Player2 wins: Jack of hearts > 3 of clubs
+INFO:root:The current turn count is 6
+INFO:root:Player2 wins: Ace of hearts > Jack of spades
+INFO:root:The current turn count is 7
+INFO:root:Player1 wins: Jack of clubs > 2 of hearts
+INFO:root:The current turn count is 8
+INFO:root:Player2 wins: King of hearts > 6 of spades
+INFO:root:The current turn count is 9
+INFO:root:Player1 wins: Ten of spades > 4 of hearts
+INFO:root:The current turn count is 10
+INFO:root:Player1 wins: Ace of spades > 9 of diamonds
+INFO:root:The current turn count is 11
+INFO:root:Player1 wins: Queen of clubs > Ten of diamonds
+INFO:root:The current turn count is 12
+WARNING:root:4 of spades is the same as 4 of diamonds
+WARNING:root:This means war!!!
+WARNING:root:Player one is putting the following up for grabs:['Ace of clubs', 'Queen of spades', '2 of clubs']
+Player two is putting the following up for grabs:['3 of diamonds', '6 of diamonds', '8 of hearts']
+INFO:root:Player1 wins: 7 of clubs > 6 of hearts
+INFO:root:The current turn count is 13
+INFO:root:Player1 wins: King of spades > 2 of diamonds
+INFO:root:The current turn count is 14
+WARNING:root:Ten of clubs is the same as Ten of hearts
+WARNING:root:This means war!!!
+WARNING:root:Player one is putting the following up for grabs:['8 of clubs', '6 of clubs', '4 of clubs']
+Player two is putting the following up for grabs:['King of diamonds', '7 of hearts', 'Jack of diamonds']
+INFO:root:Player2 wins: 7 of diamonds > 3 of spades
+INFO:root:The current turn count is 15
+INFO:root:Player2 wins: 9 of hearts > 8 of spades
+INFO:root:The current turn count is 16
+INFO:root:Player1 wins: 9 of clubs > 5 of hearts
+INFO:root:The current turn count is 17
+INFO:root:Player1 wins: 5 of spades > 3 of hearts
+INFO:root:The current turn count is 18
+INFO:root:Player2 wins: Ace of diamonds > King of clubs
+INFO:root:The current turn count is 19
+INFO:root:Player2 wins: Ace of diamonds > 3 of hearts
+INFO:root:The current turn count is 20
+INFO:root:Player2 wins: King of clubs > 5 of spades
+INFO:root:The current turn count is 21
+INFO:root:Player2 wins: 9 of hearts > 5 of hearts
+INFO:root:The current turn count is 22
+INFO:root:Player1 wins: 9 of clubs > 8 of spades
+INFO:root:The current turn count is 23
+INFO:root:Player2 wins: King of diamonds > 2 of diamonds
+INFO:root:The current turn count is 24
+INFO:root:Player2 wins: 7 of hearts > King of spades
+INFO:root:The current turn count is 25
+INFO:root:Player2 wins: Jack of diamonds > 3 of diamonds
+INFO:root:The current turn count is 26
+INFO:root:Player2 wins: 8 of clubs > 6 of diamonds
+INFO:root:The current turn count is 27
+INFO:root:Player1 wins: 8 of hearts > 6 of clubs
+INFO:root:The current turn count is 28
+INFO:root:Player1 wins: Ace of clubs > 4 of clubs
+INFO:root:The current turn count is 29
+INFO:root:Player2 wins: 7 of diamonds > Queen of spades
+INFO:root:The current turn count is 30
+INFO:root:Player2 wins: 3 of spades > 2 of clubs
+INFO:root:The current turn count is 31
+INFO:root:Player2 wins: King of hearts > 6 of hearts
+INFO:root:The current turn count is 32
+INFO:root:Player1 wins: 7 of clubs > 6 of spades
+INFO:root:The current turn count is 33
+INFO:root:Player2 wins: Ace of hearts > Ten of diamonds
+INFO:root:The current turn count is 34
+INFO:root:Player1 wins: Queen of clubs > Jack of spades
+INFO:root:The current turn count is 35
+INFO:root:Player2 wins: Jack of hearts > 9 of diamonds
+INFO:root:The current turn count is 36
+INFO:root:Player1 wins: Ace of spades > 3 of clubs
+INFO:root:The current turn count is 37
+INFO:root:Player2 wins: 8 of diamonds > 4 of hearts
+INFO:root:The current turn count is 38
+INFO:root:Player1 wins: Ten of spades > 2 of spades
+INFO:root:The current turn count is 39
+INFO:root:Player2 wins: Queen of diamonds > 2 of hearts
+INFO:root:The current turn count is 40
+INFO:root:Player1 wins: Jack of clubs > 5 of clubs
+INFO:root:The current turn count is 41
+INFO:root:Player2 wins: Queen of diamonds > 5 of diamonds
+INFO:root:The current turn count is 42
+INFO:root:Player1 wins: 9 of spades > 2 of hearts
+INFO:root:The current turn count is 43
+INFO:root:Player1 wins: Queen of hearts > 8 of diamonds
+INFO:root:The current turn count is 44
+INFO:root:Player1 wins: 7 of spades > 4 of hearts
+INFO:root:The current turn count is 45
+INFO:root:Player2 wins: Jack of hearts > 5 of clubs
+INFO:root:The current turn count is 46
+INFO:root:Player1 wins: Jack of clubs > 9 of diamonds
+INFO:root:The current turn count is 47
+INFO:root:Player2 wins: Ace of hearts > 2 of spades
+INFO:root:The current turn count is 48
+WARNING:root:Ten of spades is the same as Ten of diamonds
+WARNING:root:This means war!!!
+WARNING:root:Player one is putting the following up for grabs:['3 of clubs', 'Ace of spades', 'Jack of spades']
+Player two is putting the following up for grabs:['King of hearts', '6 of hearts', '3 of spades']
+INFO:root:Player1 wins: Queen of clubs > 2 of clubs
+INFO:root:The current turn count is 49
+INFO:root:Player2 wins: 7 of diamonds > 6 of spades
+INFO:root:The current turn count is 50
+INFO:root:Player1 wins: 7 of clubs > Queen of spades
+INFO:root:The winner is Player1 with 24 cards & Player 2 loses with 22
+
+INFO:root:6:deck size
+18:stash size
